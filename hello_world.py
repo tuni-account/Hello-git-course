@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-print("Hello world!")
-=======
-print("Hello world!")
->>>>>>> repo_exercise/master
+print(Hello world!)
+
+print("Hello from feature")
